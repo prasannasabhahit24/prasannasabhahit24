@@ -8,7 +8,7 @@ AI Enthusiast | Learning Backend Development
   <img src="https://komarev.com/ghpvc/?username=prasannasabhahit24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<img align="right" alt="Coding illustration" width="400" src="./profile-image.png">
 
 ## 👨‍💻 About Me
 
@@ -17,6 +17,8 @@ AI Enthusiast | Learning Backend Development
 - 💻 Solving **Data Structures & Algorithms** using **C++**
 - 🚀 Building projects to improve my backend and AI development skills
 - 📚 Always exploring new technologies and continuously learning
+
+<br clear="right">
 
 ---
 
@@ -27,10 +29,6 @@ AI Enthusiast | Learning Backend Development
 </p>
 
 ---
-
-
----
-
 
 ## 🤝 Connect with Me
 
