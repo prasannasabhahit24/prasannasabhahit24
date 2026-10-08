@@ -8,7 +8,7 @@ AI Enthusiast | Learning Backend Development
   <img src="https://komarev.com/ghpvc/?username=prasannasabhahit24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding illustration" width="400" src="./profile-image.png">
+<img align="right" alt="Coding animation" width="400" src="./profile-animation-cpp-py.gif">
 
 ## 👨‍💻 About Me
 
@@ -25,7 +25,7 @@ AI Enthusiast | Learning Backend Development
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,fastapi,mysql,sqlite,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,fastapi,mysql,sqlite,git,github,vscode&perline=10" />
 </p>
 
 ---
@@ -33,8 +33,12 @@ AI Enthusiast | Learning Backend Development
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/prasannasabhahit24">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/prasannasabhahit24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/prasanna-sabhahit-46b5b5350/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
 
