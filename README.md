@@ -4,9 +4,7 @@
 AI Enthusiast | Learning Backend Development
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasannasabhahit24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 <img align="right" alt="Coding animation" width="400" src="./profile-animation-cpp-py.gif">
 
