@@ -18,7 +18,6 @@ AI Enthusiast | Learning Backend Development
 
 <br clear="right">
 
----
 
 ## 🛠️ Languages & Tools
 
