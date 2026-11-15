@@ -26,6 +26,9 @@ AI Enthusiast | Learning Backend Development
 </p>
 
 ---
+[![prasannasabhahit24's GitHub stats](https://gitshine.com/card/prasannasabhahit24?layout=languages)](https://gitshine.com/stats/prasannasabhahit24)
+---
+
 
 ## 🤝 Connect with Me
 
